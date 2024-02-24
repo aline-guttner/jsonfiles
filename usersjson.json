@@ -1,0 +1,49 @@
+[
+  {
+    "nome": "Monica",
+    "email": "moni@email.com",
+    "dataNascimento": "15/03/1995",
+    "user": "moni",
+    "idUsuario": "moni#1234",
+    "senha": "1234"
+  },
+  {
+    "nome": "Ana",
+    "email": "ana@email.com",
+    "dataNascimento": "28/07/1990",
+    "user": "aninha",
+    "idUsuario": "aninha#5678",
+    "senha": "1234"
+  },
+  {
+    "nome": "Guilherme",
+    "email": "guilherme@email.com",
+    "dataNascimento": "10/11/1998",
+    "user": "gui",
+    "idUsuario": "gui#9012",
+    "senha": "1234"
+  },
+  {
+    "nome": "Caroline",
+    "email": "carol@email.com",
+    "dataNascimento": "02/05/1992",
+    "user": "carowl",
+    "idUsuario": "carowl#3456",
+    "senha": "1234"
+  },
+  {
+    "nome": "Bruno",
+    "email": "bruno@email.com",
+    "dataNascimento": "19/09/1987",
+    "user": "bruno",
+    "idUsuario": "bruno#7890",
+    "senha": "1234"
+  },
+  {
+    "nome": "Camila",
+    "email": "camila@email.com",
+    "dataNascimento": "07/12/1993",
+    "user": "mila",
+    "idUsuario": "mila#7890"
+  }
+]
